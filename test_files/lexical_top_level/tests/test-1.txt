@@ -1,0 +1,16 @@
+int x, y, z, r, s;
+x = 0;
+y = 0;
+r = 1;
+s = 2;
+while ( s > x ) {
+	z = z + 3;
+	s = s - 1;
+}
+ 
+
+while ( z > y ) {
+	x = x + 3;
+	z = z - 1;
+}
+
